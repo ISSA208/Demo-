@@ -1,0 +1,18 @@
+#title {
+    color: lightblue;
+}
+
+.body {
+    background-color: rosybrown;
+}
+
+.body-text {
+    color: red;
+}
+
+p{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding: 10px;
+}
